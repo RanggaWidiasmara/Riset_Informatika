@@ -1,0 +1,1 @@
+Disini saya ingin mencari referensi jurnal atau artikel yang mirip dengan project akhir dari studi independent saya semester 5 yaitu mengenai Pendeteksi Emosi dari Teks menggunakan NLP(algoritma yang digunakan adalah lstm). Berikut adalah jurnal atau artikel ilmiah yang sudah saya temukan

@@ -1,0 +1,1 @@
+berikut merupakan contoh dari artikel atau jurnal dimana didalamnya menggunakan metode atau metodologi

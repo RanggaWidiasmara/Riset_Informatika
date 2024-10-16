@@ -1,0 +1,1 @@
+Dari beberapa artikel ini, ada beberapa hal atau topik yang bisa saya kembangkan
